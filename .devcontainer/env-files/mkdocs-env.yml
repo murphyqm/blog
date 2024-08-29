@@ -1,4 +1,4 @@
-name: mkdocs-env
+name: docs-blog
 channels:
   - defaults
 dependencies:
@@ -7,4 +7,4 @@ dependencies:
   - pip:
     - mkdocs
     - "mkdocstrings[python]"
-    - mkdocs-material
+    - mkdocs-simple-blog
